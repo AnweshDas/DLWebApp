@@ -1,0 +1,18 @@
+.card{
+    margin: 0 auto;
+    width: 25vw;
+}
+.card-body {
+    padding: 10px !important;
+}
+.card-text {
+    font-size: 14px;
+}
+.btn {
+    padding: 4px 5px !important;
+    font-size: 15px !important;
+}
+.card-img-top{
+    height:200px;
+    width:100px
+}
